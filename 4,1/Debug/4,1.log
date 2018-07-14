@@ -1,0 +1,7 @@
+﻿  4,1.c
+c:\users\pema16bu\documents\visual studio 2015\projects\labb 4 och 5\4,1\4,1.c(10): warning C4101: 'theta': unreferenced local variable
+c:\users\pema16bu\documents\visual studio 2015\projects\labb 4 och 5\4,1\4,1.c(10): warning C4101: 'r': unreferenced local variable
+c:\users\pema16bu\documents\visual studio 2015\projects\labb 4 och 5\4,1\4,1.c(26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pema16bu\documents\visual studio 2015\projects\labb 4 och 5\4,1\4,1.c(27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  4,1.vcxproj -> c:\users\pema16bu\documents\visual studio 2015\Projects\Labb 4 och 5\Debug\4,1.exe
+  4,1.vcxproj -> c:\users\pema16bu\documents\visual studio 2015\Projects\Labb 4 och 5\Debug\4,1.pdb (Partial PDB)

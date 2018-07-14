@@ -1,0 +1,6 @@
+﻿  5,2.c
+c:\users\pema16bu\documents\visual studio 2015\projects\labb 4 och 5\5,2\5,2.c(16): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\pema16bu\documents\visual studio 2015\projects\labb 4 och 5\5,2\5,2.c(21): warning C4013: 'free' undefined; assuming extern returning int
+c:\users\pema16bu\documents\visual studio 2015\projects\labb 4 och 5\5,2\5,2.c(16): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+  5,2.vcxproj -> c:\users\pema16bu\documents\visual studio 2015\Projects\Labb 4 och 5\Debug\5,2.exe
+  5,2.vcxproj -> c:\users\pema16bu\documents\visual studio 2015\Projects\Labb 4 och 5\Debug\5,2.pdb (Partial PDB)

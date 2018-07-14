@@ -1,0 +1,44 @@
+soppa på en spik
+ Är inte ett palindrom
+
+
+smurfar
+ Är inte ett palindrom
+
+
+madam
+ Är ett palindrom
+
+
+koppensoppa
+ Är inte ett palindrom
+
+
+smulor till mat
+ Är inte ett palindrom
+
+
+Ni Talar Bra Latin
+ Är ett palindrom
+
+
+flugornas Herre
+ Är inte ett palindrom
+
+
+naturRutan
+ Är ett palindrom
+
+
+apa
+ Är ett palindrom
+
+
+åpå
+ Är ett palindrom
+
+
+ärrå
+ Är ett palindrom
+
+

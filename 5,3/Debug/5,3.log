@@ -1,0 +1,11 @@
+﻿  strlib.c
+g:\intro programmering\labb 4 och 5\5,3\strlib.c(140): warning C4018: '>': signed/unsigned mismatch
+g:\intro programmering\labb 4 och 5\5,3\strlib.c(153): warning C4018: '>': signed/unsigned mismatch
+  simpio.c
+  random.c
+  genlib.c
+  5,3.c
+g:\intro programmering\labb 4 och 5\5,3\5,3.c(48): warning C4013: 'strlen' undefined; assuming extern returning int
+  Generating Code...
+  5,3.vcxproj -> G:\Intro programmering\Labb 4 och 5\Debug\5,3.exe
+  5,3.vcxproj -> G:\Intro programmering\Labb 4 och 5\Debug\5,3.pdb (Partial PDB)
